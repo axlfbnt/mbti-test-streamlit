@@ -6,7 +6,7 @@ st.set_page_config(page_title="Tes MBTI", layout="centered")
 st.markdown("""
     <div style="text-align: center; margin-bottom: 10px;">
         <h1 style="
-            font-weight: 900; 
+            font-weight: 600; 
             font-size: 3rem; 
             color: #FF6347; 
             margin-bottom: 5px;

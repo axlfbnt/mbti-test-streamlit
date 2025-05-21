@@ -21,7 +21,7 @@ st.markdown("""
             margin-top: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             ">
-            Kenali dirimu lebih dalam lewat tes kepribadian ini
+            Kenali dirimu lebih dalam lewat tes kepribadian ini ✨
         </p>
         <p style="font-weight: 600; color: #777777; font-size: 0.9rem;">
             Created and organized by <strong>Axel Fabianto</strong>

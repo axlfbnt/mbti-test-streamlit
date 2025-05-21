@@ -4,8 +4,8 @@ import plotly.express as px
 
 st.set_page_config(page_title="Tes MBTI", layout="centered")
 st.title("🧠 Tes MBTI")
-st.markdown("___")
 st.markdown("Created and organized by **Axel Fabianto**")
+st.markdown("___")
 
 # Reset tombol
 if "reset" not in st.session_state:

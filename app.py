@@ -16,7 +16,7 @@ st.markdown("""
         </h1>
         <p style="
             font-style: italic; 
-            font-size: 1.25rem; 
+            font-size: 1rem; 
             color: #555555; 
             margin-top: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

@@ -3,9 +3,31 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="Tes MBTI", layout="centered")
-st.markdown("<h1 style='text-align: center; font-weight: bold; color: #FF6347;'>🧠 Tes MBTI Interaktif</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; font-style: italic;'>Kenali dirimu lebih dalam lewat tes kepribadian ini</p>", unsafe_allow_html=True)
-st.markdown("Created and organized by **Axel Fabianto**")
+st.markdown("""
+    <div style="text-align: center; margin-bottom: 10px;">
+        <h1 style="
+            font-weight: 900; 
+            font-size: 3rem; 
+            color: #FF6347; 
+            margin-bottom: 5px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            ">
+            🧠 Tes MBTI Interaktif
+        </h1>
+        <p style="
+            font-style: italic; 
+            font-size: 1.25rem; 
+            color: #555555; 
+            margin-top: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            ">
+            Kenali dirimu lebih dalam lewat tes kepribadian ini
+        </p>
+        <p style="font-weight: 600; color: #777777; font-size: 0.9rem;">
+            Created and organized by <strong>Axel Fabianto</strong>
+        </p>
+    </div>
+""", unsafe_allow_html=True)
 st.markdown("___")
 
 # Reset tombol

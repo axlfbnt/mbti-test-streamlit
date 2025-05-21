@@ -3,7 +3,8 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(page_title="Tes MBTI", layout="centered")
-st.title("🧠 Tes MBTI")
+st.markdown("<h1 style='text-align: center; font-weight: bold; color: #FF6347;'>🧠 Tes MBTI Interaktif</h1>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-style: italic;'>Kenali dirimu lebih dalam lewat tes kepribadian ini</p>", unsafe_allow_html=True)
 st.markdown("Created and organized by **Axel Fabianto**")
 st.markdown("___")
 
